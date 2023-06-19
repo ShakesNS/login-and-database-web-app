@@ -1,0 +1,18 @@
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.dll
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.pdb
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.AssemblyReference.cache
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.dll
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.pdb
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.dll
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.pdb
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.AssemblyReference.cache
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.CoreCompileInputs.cache
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.dll
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.dll
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\bin\Debug\AdoEntity.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.dll
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoEntity\obj\Debug\AdoEntity.pdb

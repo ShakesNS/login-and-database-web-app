@@ -1,0 +1,27 @@
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.dll
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.pdb
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.dll
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.pdb
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.AssemblyReference.cache
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CopyComplete
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.dll
+C:\Users\Student2\source\repos\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.pdb
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.dll
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.pdb
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.dll
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.pdb
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.AssemblyReference.cache
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CoreCompileInputs.cache
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CopyComplete
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.dll
+D:\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.dll
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoDAL.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.dll
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\bin\Debug\AdoEntity.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.csproj.CopyComplete
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.dll
+D:\enes\dersler\işkur\işkur kurs\hafta_15\ders2\hafta_15_ders_2\AdoDAL\obj\Debug\AdoDAL.pdb
